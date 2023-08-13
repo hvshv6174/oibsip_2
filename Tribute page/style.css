@@ -1,0 +1,14 @@
+*{
+    background-color: black;
+    color: antiquewhite;
+}
+.about{
+    margin-left: 300px;
+    text-align: left;
+}
+.features{
+    text-align: center;
+}
+.photo{
+    text-align: center;
+}
